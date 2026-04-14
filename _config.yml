@@ -1,0 +1,27 @@
+title: "Data Analyst & ML Engineer"
+description: "Personal portfolio showcasing skills in data analytics, machine learning, and optimization algorithms."
+url: ""
+baseurl: ""
+github:
+  name: jsildf
+  url: "https://github.com/jsildf"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-seo
+  - jekyll-feed
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Skills
+    url: /skills/
+  - title: Projects
+    url: /projects/
+  - title: Resume
+    url: /resume/
+  - title: Contact
+    url: /contact/

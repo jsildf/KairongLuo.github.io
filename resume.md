@@ -15,12 +15,8 @@ title: Resume
             For a complete version, please download my full resume.
         </p>
         <div class="resume-download">
-            <a href="/assets/files/resume.pdf" class="btn btn-primary" download>
+            <a href="{{ '/assets/files/resume.pdf' | relative_url }}" class="btn btn-primary" download>
                 📄 Download Full Resume (PDF)
-            </a>
-            <span class="or-text">or</span>
-            <a href="https://drive.google.com/your-resume-link" class="btn btn-secondary" target="_blank">
-                📎 View on Google Drive
             </a>
         </div>
     </div>

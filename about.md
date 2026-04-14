@@ -12,28 +12,52 @@ title: About Me
     <div class="content-block">
         <p class="lead-text">
             I am a motivated data analytics professional with a strong background in Python programming, statistical analysis,
-            and machine learning. Currently pursuing my studies at Lingnan University with an expected graduation in July 2026,
-            I am passionate about transforming complex data into actionable business insights.
+            and machine learning. My academic journey began with an Automation degree from Guangdong University of Technology
+            and is now expanding into AI and Business Analytics at Lingnan University.
         </p>
         <p>
-            My academic journey has equipped me with hands-on experience in data preprocessing, exploratory data analysis,
-            and building predictive models. I have worked on projects involving evolutionary algorithms for optimization problems,
-            financial data analysis, and transportation systems simulation. I thrive in environments that challenge me to apply
-            creative thinking and technical expertise to solve real-world problems.
+            My undergraduate studies in Automation provided me with solid foundations in control systems, algorithms, and embedded systems.
+            Now, my graduate studies are equipping me with advanced skills in artificial intelligence and business data analytics.
+            I am passionate about transforming complex data into actionable business insights and solving real-world problems
+            through data-driven approaches.
         </p>
     </div>
 </section>
 
 <section class="section">
     <h2 class="section-title">Education</h2>
-    <div class="education-card">
+
+    <div class="education-card" style="margin-bottom: 20px;">
         <div class="edu-header">
-            <h3 class="edu-degree">Bachelor's/Master's Degree in Data Science / Computer Science</h3>
+            <h3 class="edu-degree">Master of AI in Business Analytics</h3>
             <span class="edu-year">Expected Graduation: July 2026</span>
         </div>
         <p class="edu-school">Lingnan University</p>
         <div class="edu-details">
-            <p><strong>Key Coursework:</strong> Machine Learning, Data Mining, Statistics, Database Systems, Python Programming</p>
+            <p><strong>Focus Areas:</strong> Artificial Intelligence, Business Data Analytics, Machine Learning</p>
+        </div>
+    </div>
+
+    <div class="education-card">
+        <div class="edu-header">
+            <h3 class="edu-degree">Bachelor of Engineering in Automation</h3>
+            <span class="edu-year">Sep 2020 - Jul 2024</span>
+        </div>
+        <p class="edu-school">Guangdong University of Technology</p>
+        <div class="edu-details">
+            <p><strong>Key Coursework:</strong></p>
+            <div class="course-tags">
+                <span class="course-tag">Artificial Intelligence</span>
+                <span class="course-tag">Automatic Control</span>
+                <span class="course-tag">Algorithms & Data Structures</span>
+                <span class="course-tag">Computer Control Systems</span>
+                <span class="course-tag">Power Electronics</span>
+                <span class="course-tag">Embedded Systems</span>
+                <span class="course-tag">Pattern Recognition</span>
+                <span class="course-tag">PLC Programming</span>
+                <span class="course-tag">Microcontroller</span>
+                <span class="course-tag">Robotics</span>
+            </div>
         </div>
     </div>
 </section>
@@ -54,7 +78,7 @@ title: About Me
         <div class="strength-item">
             <div class="strength-icon">⚡</div>
             <h3>Algorithmic Thinking</h3>
-            <p>Strong foundation in algorithm design, analysis, and implementation for complex problems</p>
+            <p>Strong foundation in algorithm design, analysis, and implementation from automation background</p>
         </div>
         <div class="strength-item">
             <div class="strength-icon">📈</div>

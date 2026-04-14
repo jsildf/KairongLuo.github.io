@@ -126,14 +126,14 @@ title: Resume
     <h2 class="section-title">Certifications</h2>
     <div class="certifications-list">
         <div class="certification-item">
-            <span class="cert-icon">âœ“</span>
+            <span class="cert-icon">âœ?/span>
             <div class="cert-details">
                 <h4>[Certification Name]</h4>
                 <p>[Issuing Organization] - [Year]</p>
             </div>
         </div>
         <div class="certification-item">
-            <span class="cert-icon">âœ“</span>
+            <span class="cert-icon">âœ?/span>
             <div class="cert-details">
                 <h4>[Certification Name]</h4>
                 <p>[Issuing Organization] - [Year]</p>

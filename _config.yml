@@ -12,18 +12,16 @@ plugins:
   - jekyll-seo
   - jekyll-feed
 
-permalink: /:title/
-
 navigation:
   - title: Home
     url: /
   - title: About
-    url: /about/
+    url: /about.html
   - title: Skills
-    url: /skills/
+    url: /skills.html
   - title: Projects
-    url: /projects/
+    url: /projects.html
   - title: Resume
-    url: /resume/
+    url: /resume.html
   - title: Contact
-    url: /contact/
+    url: /contact.html

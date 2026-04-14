@@ -15,8 +15,8 @@ title: Resume
             For a complete version, please download my full resume.
         </p>
         <div class="resume-download">
-            <a href="{{ '/assets/files/resume.pdf' | relative_url }}" class="btn btn-primary" download>
-                📄 Download Full Resume (PDF)
+            <a href="/KairongLuo.github.io/assets/files/resume.pdf" class="btn btn-primary" target="_blank">
+                Download Full Resume (PDF)
             </a>
         </div>
     </div>
@@ -26,62 +26,22 @@ title: Resume
     <h2 class="section-title">Education</h2>
     <div class="timeline">
         <div class="timeline-item">
-            <div class="timeline-date">Expected [Year]</div>
+            <div class="timeline-date">Expected July 2026</div>
             <div class="timeline-content">
-                <h3>Master of Science in Data Science / Computer Science</h3>
-                <p class="timeline-org">[University Name]</p>
+                <h3>Master of AI in Business Analytics</h3>
+                <p class="timeline-org">Lingnan University</p>
                 <div class="timeline-details">
-                    <p><strong>Relevant Coursework:</strong></p>
-                    <ul class="coursework-list">
-                        <li>Machine Learning & Deep Learning</li>
-                        <li>Data Mining & Analytics</li>
-                        <li>Algorithms & Data Structures</li>
-                        <li>Database Management Systems</li>
-                        <li>Statistics & Probability</li>
-                        <li>Natural Language Processing</li>
-                    </ul>
+                    <p><strong>Focus Areas:</strong> Artificial Intelligence, Business Data Analytics, Machine Learning</p>
                 </div>
             </div>
         </div>
         <div class="timeline-item">
-            <div class="timeline-date">[Year]</div>
+            <div class="timeline-date">Sep 2020 - Jul 2024</div>
             <div class="timeline-content">
-                <h3>Bachelor of Science in [Related Field]</h3>
-                <p class="timeline-org">[University Name]</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="section">
-    <h2 class="section-title">Work Experience</h2>
-    <div class="timeline">
-        <div class="timeline-item">
-            <div class="timeline-date">[Year] - Present</div>
-            <div class="timeline-content">
-                <h3>[Position Title]</h3>
-                <p class="timeline-org">[Company Name]</p>
+                <h3>Bachelor of Engineering in Automation</h3>
+                <p class="timeline-org">Guangdong University of Technology</p>
                 <div class="timeline-details">
-                    <ul>
-                        <li>Designed and implemented data analysis pipelines processing [X] records daily</li>
-                        <li>Developed ML models achieving [X]% accuracy improvement over baseline</li>
-                        <li>Collaborated with cross-functional teams to deliver [X] data-driven projects</li>
-                        <li>Created automated reporting dashboards reducing manual work by [X] hours/week</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-date">[Year] - [Year]</div>
-            <div class="timeline-content">
-                <h3>[Position Title]</h3>
-                <p class="timeline-org">[Company Name]</p>
-                <div class="timeline-details">
-                    <ul>
-                        <li>Conducted exploratory data analysis on [X] datasets to identify trends and patterns</li>
-                        <li>Built predictive models supporting business decision-making</li>
-                        <li>Presented findings to stakeholders through clear visualizations and narratives</li>
-                    </ul>
+                    <p><strong>Key Coursework:</strong> Artificial Intelligence, Automatic Control, Algorithms & Data Structures, Computer Control Systems, Power Electronics, Embedded Systems</p>
                 </div>
             </div>
         </div>
@@ -92,31 +52,31 @@ title: Resume
     <h2 class="section-title">Key Achievements</h2>
     <div class="achievements-grid">
         <div class="achievement-card">
-            <div class="achievement-icon">🏆</div>
+            <div class="achievement-icon">Trophy</div>
             <div class="achievement-content">
-                <h3>Algorithm Performance</h3>
-                <p>Improved optimization algorithm performance by ~50% over baseline through customized crossover and mutation operators</p>
+                <h3>CVRP Optimization Research</h3>
+                <p>Developed evolutionary algorithm with customized ERX crossover achieving ~50% improvement over baseline on benchmark datasets</p>
             </div>
         </div>
         <div class="achievement-card">
-            <div class="achievement-icon">📊</div>
+            <div class="achievement-icon">Chart</div>
             <div class="achievement-content">
-                <h3>Data Pipeline</h3>
-                <p>Built automated ETL pipeline processing 500K+ records, reducing processing time by 60%</p>
+                <h3>Stock Data Analysis</h3>
+                <p>Engineered 20 features from 619K+ stock records, reduced feature redundancy by 73% while preserving predictive power</p>
             </div>
         </div>
         <div class="achievement-card">
-            <div class="achievement-icon">🎯</div>
+            <div class="achievement-icon">Robot</div>
             <div class="achievement-content">
-                <h3>Business Impact</h3>
-                <p>Delivered actionable insights contributing to measurable improvements in operational efficiency</p>
+                <h3>TSP Solver Development</h3>
+                <p>Built multi-algorithm TSP benchmarking platform with SUMO traffic simulation integration</p>
             </div>
         </div>
         <div class="achievement-card">
-            <div class="achievement-icon">📚</div>
+            <div class="achievement-icon">Book</div>
             <div class="achievement-content">
-                <h3>Research</h3>
-                <p>Published research findings in academic setting with reproducible methodology</p>
+                <h3>Academic Excellence</h3>
+                <p>Maintained strong academic standing with hands-on experience in Python, SQL, and ML frameworks</p>
             </div>
         </div>
     </div>
@@ -126,17 +86,10 @@ title: Resume
     <h2 class="section-title">Certifications</h2>
     <div class="certifications-list">
         <div class="certification-item">
-            <span class="cert-icon">�?/span>
+            <span class="cert-icon">V</span>
             <div class="cert-details">
-                <h4>[Certification Name]</h4>
-                <p>[Issuing Organization] - [Year]</p>
-            </div>
-        </div>
-        <div class="certification-item">
-            <span class="cert-icon">�?/span>
-            <div class="cert-details">
-                <h4>[Certification Name]</h4>
-                <p>[Issuing Organization] - [Year]</p>
+                <h4>IELTS Academic</h4>
+                <p>Band Score: 6.0</p>
             </div>
         </div>
     </div>
@@ -146,7 +99,7 @@ title: Resume
     <h2 class="section-title">Interested in My Profile?</h2>
     <p class="lead-text">Feel free to review my projects and skills, then get in touch!</p>
     <div class="cta-buttons">
-        <a href="{{ '/projects/' | relative_url }}" class="btn">View My Projects</a>
-        <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Contact Me</a>
+        <a href="/KairongLuo.github.io/projects.html" class="btn">View My Projects</a>
+        <a href="/KairongLuo.github.io/contact.html" class="btn btn-primary">Contact Me</a>
     </div>
 </section>
